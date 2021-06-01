@@ -1,33 +1,25 @@
-baseURL = "http://example.org/"
+baseURL = "https://upbeat-hodgkin-5e88e5.netlify.app/"
 languageCode = "en-us"
 paginate = 6
 theme = "portio"
 title = "Portio"
 # Main Menu
-[[menu.main]]
 name = "Home"
 url = "#home"
 weight = 1
 [[menu.main]]
 name = "Why"
-url = "#why"
+url = "#about"
 weight = 2
 [[menu.main]]
 name = "Eligibility"
-url = "#elig"
+url = "#service"
 weight = 3
 [[menu.main]]
-name = "What's involved"
-url = "#involved"
-weight = 4
-[[menu.main]]
-name = "Sign up"
-url = "#signup"
+name = "Overview"
+url = "#resume"
 weight = 5
 [[menu.main]]
-name = "Contact"
-url = "#contact"
-weight = 7
 
 # Sitemap Menu
 [[menu.sitemap]]
@@ -36,7 +28,7 @@ url = "#"
 weight = 1
 [[menu.sitemap]]
 name = "Sign up"
-url = "#"
+url = "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
 weight = 2
 
 [params]
@@ -65,3 +57,8 @@ pinImage = "images/pin.png"
 icon = "fa-facebook-official"
 url = "https://www.facebook.com/"
 weight = 1
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
