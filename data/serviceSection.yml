@@ -1,0 +1,17 @@
+---
+enable: true
+topTitle: Eligibility
+title: >
+  ## Is this project for you?
+
+  Childhood is a critical period for development, so we are looking for children in the middle of primary school:
+service:
+  - content: >
+      #### Is your child in Year 2, 3, or 4 in 2021?
+
+    image: images/service/np_children_1752919_3C1053.png
+  - content: >
+      #### Living in Sydney or on the Central Coast?
+
+    image: images/service/np_opera-house-sydney_1626291_3C1053.png
+

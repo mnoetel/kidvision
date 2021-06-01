@@ -1,0 +1,32 @@
+---
+enable: true
+topTitle: Project Overview
+title: >
+  ## What KidVision involves
+
+  It’s hard for parents to know what their children do with their time. We don’t remember what our kids did all day yesterday, and our kids don’t remember either. We also don't see most of the things our children see, from advertising to different media.
+
+
+  The groundbreaking part of this study is the use of secure, **paramedic-grade wearable cameras** to measure what children are doing, and a research-grade FitBit-like device to measure sleep and physical activity.
+  With stringent privacy controls, the study involves the following steps.
+
+education:
+  - content: >
+      #### Measuring how children are doing
+
+      You and your child each answering 15-20 minutes of questions on an iPad
+
+  - content: >
+      #### Measuring what children see
+
+      Your child wearing an [encrypted, paramedic-grade wearable camera](https://mview.com.au/paramedics-to-get-high-tech-body-cameras/) for four days
+
+  - content: >
+      #### Measuring what children do
+
+      Your child wearing a waterproof, FitBit-like device to measure sleep and physical activity for the same four days
+
+  - content: >
+      #### Tracking their development over time
+
+      Repeating these steps, once next year, and once the year after

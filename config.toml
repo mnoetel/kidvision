@@ -1,0 +1,67 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+paginate = 6
+theme = "portio"
+title = "Portio"
+# Main Menu
+[[menu.main]]
+name = "Home"
+url = "#home"
+weight = 1
+[[menu.main]]
+name = "Why"
+url = "#why"
+weight = 2
+[[menu.main]]
+name = "Eligibility"
+url = "#elig"
+weight = 3
+[[menu.main]]
+name = "What's involved"
+url = "#involved"
+weight = 4
+[[menu.main]]
+name = "Sign up"
+url = "#signup"
+weight = 5
+[[menu.main]]
+name = "Contact"
+url = "#contact"
+weight = 7
+
+# Sitemap Menu
+[[menu.sitemap]]
+name = "Study information"
+url = "#"
+weight = 1
+[[menu.sitemap]]
+name = "Sign up"
+url = "#"
+weight = 2
+
+[params]
+blogPageURL = "blog"
+contactLink = "contact"
+copyright = "All right reserved copyright © Australian Catholic University"
+footerLogo = "images/contact/widget-logo.png"
+formspreeURL = "YOUR FORMSPREE URL"
+googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"
+logo = "images/site-navigation/logo.png"
+
+[params.address]
+address = "33 Berry St, North Sydney"
+email = "KidVision@acu.edu.au"
+openingHours = "Open from 9am to 5pm"
+phone = "02 9701 4704"
+
+[params.map]
+APIkey = "AIzaSyAh6K6izKRjmFoW-y4smzy5NXEPBRpaD3U"
+latitude = "-33.8370569"
+longitude = "151.2034343"
+pinImage = "images/pin.png"
+
+# Social icons
+[[params.social]]
+icon = "fa-facebook-official"
+url = "https://www.facebook.com/"
+weight = 1
